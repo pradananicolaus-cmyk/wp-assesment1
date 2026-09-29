@@ -1,0 +1,374 @@
+# Translation of Themes - Unibiz in Indonesian
+# This file is distributed under the same license as the Themes - Unibiz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-26 05:31:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Unibiz\n"
+
+#. Theme Name of the theme
+#: style.css inc/class/class-init.php:1321
+#, gp-priority: high
+msgid "Unibiz"
+msgstr "Unibiz"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page With Sidebar"
+msgstr "Halaman Dengan Sidebar"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Canvas"
+msgstr "Kanvas Kosong"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Aksen"
+
+#: theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "Putih"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Hover"
+msgstr "Aksen Hover"
+
+#: inc/class/class-init.php:1331
+msgid "Activate Gutenverse Plugin"
+msgstr "Aktifkan Plugin Gutenverse"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Primary"
+msgstr "Latar Belakang Utama"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Secondary"
+msgstr "Latar Belakang Sekunder"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background Tertiary"
+msgstr "Latar Belakang Tersier"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr "Besar"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "Hitam"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr "Perbatasan"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border Input"
+msgstr "Input Batas"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Accent"
+msgstr "Aksen Gelap"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Accent Hover"
+msgstr "Aksen Gelap Hover"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Primary"
+msgstr "Latar Belakang Gelap Utama"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Secondary"
+msgstr "Latar Belakang Gelap Sekunder"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Background Tertiary"
+msgstr "Latar Belakang Gelap Tersier"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border"
+msgstr "Garis Tepi Gelap"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Border Input"
+msgstr "Input Batas Gelap"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Primary"
+msgstr "Primer Gelap"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Secondary"
+msgstr "Sekunder Gelap"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Placeholder"
+msgstr "Placeholder Teks Gelap"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Primary"
+msgstr "Teks Utama Gelap"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Text Secondary"
+msgstr "Teks Gelap Sekunder"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Sangat Besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Raksasa"
+
+#: inc/class/class-init.php:1332
+msgid "Gutenverse Plugin Installed"
+msgstr "Plugin Gutenverse Terpasang"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Host Grotesk"
+msgstr "Host Grotesk"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Besar"
+
+#: inc/class/class-init.php:1330
+msgid "Install Gutenverse Plugin"
+msgstr "Instal Plugin Gutenverse"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Jumbo"
+msgstr "Jumbo"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Largest"
+msgstr "Terbesar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Little"
+msgstr "Kecil"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Massive"
+msgstr "Masif"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Sedang"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Mega"
+msgstr "Mega"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Mini"
+msgstr "Mini"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Sidebar"
+msgstr "Halaman Tanpa Sidebar"
+
+#: inc/class/class-init.php:1323
+msgid "Plugin Requirement"
+msgstr "Persyaratan Plugin"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Utama"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Standard"
+msgstr "Standar"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Placeholder"
+msgstr "Placeholder Teks"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Primary"
+msgstr "Teks Utama"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Secondary"
+msgstr "Teks Sekunder"
+
+#: inc/class/class-init.php:1324
+msgid "This theme require some plugins. Please make sure all the plugin below are installed and activated."
+msgstr "Tema ini memerlukan beberapa plugin. Pastikan semua plugin di bawah ini sudah terpasang dan diaktifkan."
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Kecil"
+
+#: inc/patterns/unibiz-core-home-about.php:6
+msgid "Unibiz Core Home About"
+msgstr "Unibiz Core Beranda Tentang"
+
+#: inc/patterns/unibiz-core-home-authority.php:6
+msgid "Unibiz Core Home Authority"
+msgstr "Unibiz Core Beranda Otoritas"
+
+#: inc/patterns/unibiz-core-home-benefits.php:6
+msgid "Unibiz Core Home Benefits"
+msgstr "Unibiz Core Beranda Manfaat"
+
+#: inc/patterns/unibiz-core-home-blog.php:6
+msgid "Unibiz Core Home Blog"
+msgstr "Unibiz Core Beranda Blog"
+
+#: inc/patterns/unibiz-core-home-clients.php:6
+msgid "Unibiz Core Home Clients"
+msgstr "Unibiz Core Beranda Klien"
+
+#: inc/patterns/unibiz-core-home-hero.php:6
+msgid "Unibiz Core Home Hero"
+msgstr "Unibiz Core Beranda Hero"
+
+#: inc/patterns/unibiz-core-home-services.php:6
+msgid "Unibiz Core Home Services"
+msgstr "Layanan Beranda Core Unibiz"
+
+#: inc/patterns/unibiz-core-home-testimonials.php:6
+msgid "Unibiz Core Home Testimonials"
+msgstr "Unibiz Core Beranda Testimoni"
+
+#: inc/class/class-block-patterns.php:57
+msgid "Unibiz Core Patterns"
+msgstr "Unibiz Core Pola"
+
+#: inc/patterns/unibiz-gutenverse-footer.php:6
+msgid "Unibiz Gutenverse Footer"
+msgstr "Unibiz Gutenverse Footer"
+
+#: inc/patterns/unibiz-gutenverse-footer-alternate.php:6
+msgid "Unibiz Gutenverse Footer Alternate"
+msgstr "Unibiz Gutenverse Footer Alternatif"
+
+#: inc/patterns/unibiz-gutenverse-header.php:6
+msgid "Unibiz Gutenverse Header"
+msgstr "Unibiz Gutenverse Header"
+
+#: inc/patterns/unibiz-gutenverse-header-alternate.php:6
+msgid "Unibiz Gutenverse Header Alternate"
+msgstr "Unibiz Gutenverse Header Alternatif"
+
+#: inc/patterns/unibiz-gutenverse-home-about.php:6
+msgid "Unibiz Gutenverse Home About"
+msgstr "Unibiz Gutenverse Beranda Tentang"
+
+#: inc/patterns/unibiz-gutenverse-home-authority.php:6
+msgid "Unibiz Gutenverse Home Authority"
+msgstr "Unibiz Gutenverse Beranda Otoritas"
+
+#: inc/patterns/unibiz-gutenverse-home-blog.php:6
+msgid "Unibiz Gutenverse Home Blog"
+msgstr "Unibiz Gutenverse Beranda Blog"
+
+#: inc/patterns/unibiz-gutenverse-home-clients.php:6
+msgid "Unibiz Gutenverse Home Clients"
+msgstr "Unibiz Gutenverse Beranda Klien"
+
+#: inc/patterns/unibiz-gutenverse-home-hero.php:6
+msgid "Unibiz Gutenverse Home Hero"
+msgstr "Unibiz Gutenverse Beranda Hero"
+
+#: inc/patterns/unibiz-gutenverse-home-services.php:6
+msgid "Unibiz Gutenverse Home Services"
+msgstr "Unibiz Gutenverse Beranda Layanan"
+
+#: inc/patterns/unibiz-gutenverse-home-testimonials.php:6
+msgid "Unibiz Gutenverse Home Testimonials"
+msgstr "Unibiz Gutenverse Beranda Testimoni"
+
+#: inc/class/class-block-patterns.php:61
+msgid "Unibiz Gutenverse Patterns"
+msgstr "Unibiz Gutenverse Pola"
+
+#: inc/class/class-block-patterns.php:62
+msgid "Unibiz Gutenverse PRO Patterns"
+msgstr "Unibiz Gutenverse PRO Pola"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://gutenverse.com"
+msgstr "https://gutenverse.com"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://gutenverse.com/unibiz/"
+msgstr "https://gutenverse.com/unibiz/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Jegstudio"
+msgstr "Jegstudio"
